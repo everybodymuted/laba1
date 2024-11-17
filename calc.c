@@ -1,5 +1,4 @@
 #include <stdio.h>
-#include <stdlib.h>
 #include "calc.h"
 
 int perform_operation(int left_operand, char operator, int right_operand) {
