@@ -1,6 +1,8 @@
 #include <stdio.h>
 #include "calc.h"
 
+
+//калькулятор 
 int perform_operation(int left_operand, char operator, int right_operand) {
 	switch (operator) {
 	       	case '+':
